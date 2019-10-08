@@ -1,0 +1,6 @@
+.gitignore
+/.idea/
+test.db
+pkg/*
+.lock
+list*
