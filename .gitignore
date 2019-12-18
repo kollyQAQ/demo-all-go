@@ -1,5 +1,8 @@
 .gitignore
 /.idea/
+.idea
+.idea/
+/.idea
 test.db
 pkg/*
 .lock

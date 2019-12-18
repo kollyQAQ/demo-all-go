@@ -1,4 +1,4 @@
-package demo_benchmark
+package demo_unit_test
 
 import (
 	"bytes"
